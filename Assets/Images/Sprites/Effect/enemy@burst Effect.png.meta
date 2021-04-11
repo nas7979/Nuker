@@ -1,0 +1,710 @@
+fileFormatVersion: 2
+guid: 18edaa773ff27a0449bc04415d012334
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1172597732591112167
+    second: enemy@burst Effect_0
+  - first:
+      213: 2264206086308536329
+    second: enemy@burst Effect_1
+  - first:
+      213: -6249015428376415435
+    second: enemy@burst Effect_2
+  - first:
+      213: -6641182134381211271
+    second: enemy@burst Effect_3
+  - first:
+      213: 8894791293293986582
+    second: enemy@burst Effect_4
+  - first:
+      213: -3367089905330626675
+    second: enemy@burst Effect_5
+  - first:
+      213: -6187716997627139383
+    second: enemy@burst Effect_6
+  - first:
+      213: -949116935060615861
+    second: enemy@burst Effect_7
+  - first:
+      213: -594534648479324768
+    second: enemy@burst Effect_8
+  - first:
+      213: 2484078584295704304
+    second: enemy@burst Effect_9
+  - first:
+      213: -1408939279320193755
+    second: enemy@burst Effect_10
+  - first:
+      213: -7802928469339220241
+    second: enemy@burst Effect_11
+  - first:
+      213: -3159121289153305827
+    second: enemy@burst Effect_12
+  - first:
+      213: 7039561316127936195
+    second: enemy@burst Effect_13
+  - first:
+      213: -2002958484349601138
+    second: enemy@burst Effect_14
+  - first:
+      213: -4842815985135451507
+    second: enemy@burst Effect_15
+  - first:
+      213: 5771035955538119419
+    second: enemy@burst Effect_16
+  - first:
+      213: 4416219338423679606
+    second: enemy@burst Effect_17
+  - first:
+      213: 1809154434809450632
+    second: enemy@burst Effect_18
+  - first:
+      213: -1718048128526816699
+    second: enemy@burst Effect_19
+  - first:
+      213: 2615010229102264707
+    second: enemy@burst Effect_20
+  - first:
+      213: 9033598792635118716
+    second: enemy@burst Effect_21
+  - first:
+      213: 2005592165049685544
+    second: enemy@burst Effect_22
+  - first:
+      213: -931006147843243439
+    second: enemy@burst Effect_23
+  - first:
+      213: -776861590134396185
+    second: enemy@burst Effect_24
+  - first:
+      213: 887824811222001316
+    second: enemy@burst Effect_25
+  - first:
+      213: 1000404636712803060
+    second: enemy@burst Effect_26
+  - first:
+      213: 1068437117219189739
+    second: enemy@burst Effect_27
+  - first:
+      213: 3957184509738800840
+    second: enemy@burst Effect_28
+  - first:
+      213: 3226674161152051711
+    second: enemy@burst Effect_29
+  - first:
+      213: -9171019669777508009
+    second: enemy@burst Effect_30
+  - first:
+      213: -4414130925873905088
+    second: enemy@burst Effect_31
+  - first:
+      213: -286926282796926821
+    second: enemy@burst Effect_32
+  - first:
+      213: 7344994392123753117
+    second: enemy@burst Effect_33
+  - first:
+      213: -614859568204205522
+    second: enemy@burst Effect_34
+  - first:
+      213: -3747094549334553964
+    second: enemy@burst Effect_35
+  - first:
+      213: 4648403098867091535
+    second: enemy@burst Effect_36
+  - first:
+      213: -2560794518356465226
+    second: enemy@burst Effect_37
+  - first:
+      213: -57069874367679495
+    second: enemy@burst Effect_38
+  - first:
+      213: -5668430213476373854
+    second: enemy@burst Effect_39
+  - first:
+      213: 5551919996052597701
+    second: enemy@burst Effect_40
+  - first:
+      213: -982757332541973752
+    second: enemy@burst Effect_41
+  - first:
+      213: -6091512751070468402
+    second: enemy@burst Effect_42
+  - first:
+      213: 8205405314047593373
+    second: enemy@burst Effect_43
+  - first:
+      213: 8489611479229998539
+    second: enemy@burst Effect_44
+  - first:
+      213: -1910276379918390355
+    second: enemy@burst Effect_45
+  - first:
+      213: 7657597443195697226
+    second: enemy@burst Effect_46
+  - first:
+      213: 3931077230962558390
+    second: enemy@burst Effect_47
+  - first:
+      213: -8126868267388784158
+    second: enemy@burst Effect_48
+  - first:
+      213: -2082989040620602
+    second: enemy@burst Effect_49
+  - first:
+      213: -4031828725151023842
+    second: enemy@burst Effect_50
+  - first:
+      213: 113278814361963626
+    second: enemy@burst Effect_51
+  - first:
+      213: 4850432463982538354
+    second: enemy@burst Effect_52
+  - first:
+      213: -6664719640171686972
+    second: enemy@burst Effect_53
+  - first:
+      213: -8782808304508010195
+    second: enemy@burst Effect_54
+  - first:
+      213: 6382844004999454190
+    second: enemy@burst Effect_55
+  - first:
+      213: -1043001684040022210
+    second: enemy@burst Effect_56
+  - first:
+      213: -1780078065966603830
+    second: enemy@burst Effect_57
+  - first:
+      213: -5694857398187899277
+    second: enemy@burst Effect_58
+  - first:
+      213: 3675682873745169238
+    second: enemy@burst Effect_59
+  - first:
+      213: 116406767177143175
+    second: enemy@burst Effect_60
+  - first:
+      213: 4181877719741335754
+    second: enemy@burst Effect_61
+  - first:
+      213: -454412694694940583
+    second: enemy@burst Effect_62
+  - first:
+      213: 8311962676595469680
+    second: enemy@burst Effect_63
+  - first:
+      213: 7746891169591063213
+    second: enemy@burst Effect_64
+  - first:
+      213: 402858080374134699
+    second: enemy@burst Effect_65
+  - first:
+      213: -1349440262815122984
+    second: enemy@burst Effect_66
+  - first:
+      213: 4894307568150209981
+    second: enemy@burst Effect_67
+  - first:
+      213: -3798273359577371602
+    second: enemy@burst Effect_68
+  - first:
+      213: 7872711209863269267
+    second: enemy@burst Effect_69
+  - first:
+      213: 2590454543799189253
+    second: enemy@burst Effect_70
+  - first:
+      213: -7206613764927128752
+    second: enemy@burst Effect_71
+  - first:
+      213: -5944927672924054154
+    second: enemy@burst Effect_72
+  - first:
+      213: 6443143369563111760
+    second: enemy@burst Effect_73
+  - first:
+      213: 8255776464859409108
+    second: enemy@burst Effect_74
+  - first:
+      213: -8647673209468936561
+    second: enemy@burst Effect_75
+  - first:
+      213: -2145268807878983573
+    second: enemy@burst Effect_76
+  - first:
+      213: 7985610737086709169
+    second: enemy@burst Effect_77
+  - first:
+      213: -3752081177353797485
+    second: enemy@burst Effect_78
+  - first:
+      213: 7800930623685377333
+    second: enemy@burst Effect_79
+  - first:
+      213: -6809209840132096400
+    second: enemy@burst Effect_80
+  - first:
+      213: 7934014617533108847
+    second: enemy@burst Effect_81
+  - first:
+      213: 1279417237336593113
+    second: enemy@burst Effect_82
+  - first:
+      213: -5609998105333497134
+    second: enemy@burst Effect_83
+  - first:
+      213: 2595332574496552690
+    second: enemy@burst Effect_84
+  - first:
+      213: 8951311683027228170
+    second: enemy@burst Effect_85
+  - first:
+      213: 3300438509311787203
+    second: enemy@burst Effect_86
+  - first:
+      213: 7489224221515735568
+    second: enemy@burst Effect_87
+  - first:
+      213: 3873695084322749624
+    second: enemy@burst Effect_88
+  - first:
+      213: 7601790537867506003
+    second: enemy@burst Effect_89
+  - first:
+      213: 4610502476381999461
+    second: enemy@burst Effect_90
+  - first:
+      213: -6916849952051350776
+    second: enemy@burst Effect_91
+  - first:
+      213: 1665859066202757420
+    second: enemy@burst Effect_92
+  - first:
+      213: 582154806951309413
+    second: enemy@burst Effect_93
+  - first:
+      213: 524693690734482901
+    second: enemy@burst Effect_94
+  - first:
+      213: 5864376978199982779
+    second: enemy@burst Effect_95
+  - first:
+      213: -3254072155848046944
+    second: enemy@burst Effect_96
+  - first:
+      213: -2901525462309009664
+    second: enemy@burst Effect_97
+  - first:
+      213: 2868432401977879574
+    second: enemy@burst Effect_98
+  - first:
+      213: 3943441658422169123
+    second: enemy@burst Effect_99
+  - first:
+      213: 8103023062497329830
+    second: enemy@burst Effect_100
+  - first:
+      213: 5804260570343839924
+    second: enemy@burst Effect_101
+  - first:
+      213: -7182787797903481652
+    second: enemy@burst Effect_102
+  - first:
+      213: 1664570525387925467
+    second: enemy@burst Effect_103
+  - first:
+      213: 5752687817738685543
+    second: enemy@burst Effect_104
+  - first:
+      213: -3242949989395283412
+    second: enemy@burst Effect_105
+  - first:
+      213: 7850512520079830965
+    second: enemy@burst Effect_106
+  - first:
+      213: 2417458654137171712
+    second: enemy@burst Effect_107
+  - first:
+      213: -6211045004782575733
+    second: enemy@burst Effect_108
+  - first:
+      213: -91061883581853390
+    second: enemy@burst Effect_109
+  - first:
+      213: 583328284302131410
+    second: enemy@burst Effect_110
+  - first:
+      213: 1471303513157239980
+    second: enemy@burst Effect_111
+  - first:
+      213: -4709868238650317667
+    second: enemy@burst Effect_112
+  - first:
+      213: 136038245834638096
+    second: enemy@burst Effect_113
+  - first:
+      213: 7820091220304473047
+    second: enemy@burst Effect_114
+  - first:
+      213: 1325787144050089738
+    second: enemy@burst Effect_115
+  - first:
+      213: -3042405959702710870
+    second: enemy@burst Effect_116
+  - first:
+      213: 6516006877503489379
+    second: enemy@burst Effect_117
+  - first:
+      213: -8171556465027294334
+    second: enemy@burst Effect_118
+  - first:
+      213: -6173224687630588779
+    second: enemy@burst Effect_119
+  - first:
+      213: 3772720783555790912
+    second: enemy@burst Effect_120
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: enemy@burst Effect_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 541
+        height: 526
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ef8583dc67e54010800000000000000
+      internalID: 1172597732591112167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy@burst Effect_1
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 0
+        width: 541
+        height: 526
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 900a2b070731c6f10800000000000000
+      internalID: 2264206086308536329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy@burst Effect_2
+      rect:
+        serializedVersion: 2
+        x: 1082
+        y: 0
+        width: 541
+        height: 526
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53330bb93990749a0800000000000000
+      internalID: -6249015428376415435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy@burst Effect_3
+      rect:
+        serializedVersion: 2
+        x: 1623
+        y: 0
+        width: 541
+        height: 526
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97199870908c5d3a0800000000000000
+      internalID: -6641182134381211271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy@burst Effect_4
+      rect:
+        serializedVersion: 2
+        x: 2164
+        y: 0
+        width: 541
+        height: 526
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 613860cfd85a07b70800000000000000
+      internalID: 8894791293293986582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy@burst Effect_5
+      rect:
+        serializedVersion: 2
+        x: 2705
+        y: 0
+        width: 541
+        height: 526
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8fd6f91291b541d0800000000000000
+      internalID: -3367089905330626675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy@burst Effect_6
+      rect:
+        serializedVersion: 2
+        x: 3246
+        y: 0
+        width: 541
+        height: 526
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9caa9c1bc20d02aa0800000000000000
+      internalID: -6187716997627139383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy@burst Effect_7
+      rect:
+        serializedVersion: 2
+        x: 3787
+        y: 0
+        width: 541
+        height: 526
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4d876b1d2f04d2f0800000000000000
+      internalID: -949116935060615861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy@burst Effect_8
+      rect:
+        serializedVersion: 2
+        x: 4328
+        y: 0
+        width: 541
+        height: 526
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a56abe13e9cfb7f0800000000000000
+      internalID: -594534648479324768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy@burst Effect_9
+      rect:
+        serializedVersion: 2
+        x: 4869
+        y: 0
+        width: 541
+        height: 526
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f6c91baf48397220800000000000000
+      internalID: 2484078584295704304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy@burst Effect_10
+      rect:
+        serializedVersion: 2
+        x: 5410
+        y: 0
+        width: 541
+        height: 526
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 525660ab031727ce0800000000000000
+      internalID: -1408939279320193755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

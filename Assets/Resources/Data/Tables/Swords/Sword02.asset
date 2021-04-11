@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 474a294aed867bc4e8a8faa9aba9a0c7, type: 3}
+  m_Name: Sword02
+  m_EditorClassIdentifier: 
+  ID: 1
+  swordLocationSprites:
+    IdleHand: {fileID: 7808054965433911839, guid: e02cf2ce3a28efc4890106e7a3739cc2,
+      type: 3}
+    rightHand: {fileID: 4949892656443475022, guid: e02cf2ce3a28efc4890106e7a3739cc2,
+      type: 3}
+    leftHand01: {fileID: 6101726873267559619, guid: e02cf2ce3a28efc4890106e7a3739cc2,
+      type: 3}
+    leftHand02: {fileID: 4202213191405177223, guid: e02cf2ce3a28efc4890106e7a3739cc2,
+      type: 3}
+    leftHand03: {fileID: 3119833856566931026, guid: e02cf2ce3a28efc4890106e7a3739cc2,
+      type: 3}
+    rankShow: {fileID: 7808054965433911839, guid: e02cf2ce3a28efc4890106e7a3739cc2,
+      type: 3}
